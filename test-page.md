@@ -16,6 +16,5 @@ services:
 show_news: false
 partners: []
 show_staff: false
-published: false
 
 ---
